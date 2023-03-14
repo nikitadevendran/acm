@@ -76,8 +76,8 @@ text-decoration: 3px;
  font-size:20px;
 }
 .button1{
-  padding:5px 7px;
-  border-radius:5px;
+  padding:4px 6px;
+  border-radius:3px;
   border:0;
   font-family:'Quicksand',sans-serif;
   font-weight:bold;
@@ -89,8 +89,8 @@ float: right;
     
 }
 .button{
-  padding:5px 7px;
-  border-radius:5px;
+  padding:4px 6px;
+  border-radius:3px;
   border:0;
      margin-top: 2px;
   font-family:'Quicksand',sans-serif;
@@ -211,7 +211,7 @@ span{
 }
 .fa {
   padding: 4px;
-  font-size: 10px;
+  font-size: 20px;
   text-align: right;
   text-decoration: none;
   margin: 2px 2px;
