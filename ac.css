@@ -76,7 +76,7 @@ text-decoration: 3px;
  font-size:20px;
 }
 .button1{
-  padding:4px 6px;
+  padding:4px;
   border-radius:3px;
   border:0;
   font-family:'Quicksand',sans-serif;
@@ -89,7 +89,7 @@ float: right;
     
 }
 .button{
-  padding:4px 6px;
+  padding:4px;
   border-radius:3px;
   border:0;
      margin-top: 2px;
